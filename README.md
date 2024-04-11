@@ -16,6 +16,3 @@ If you have a domain configured on Route53, follow below link.
 
 ### Clean up
 terraform destroy --auto-approve
-
-
-
